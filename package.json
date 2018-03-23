@@ -3,12 +3,16 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "ajv": "^6.3.0",
+    "nem-library": "^1.0.1",
     "nem-sdk": "^1.6.2",
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
     "react-scripts": "1.1.1",
+    "rxjs": "^5.5.7",
     "semantic-ui-css": "^2.2.14",
-    "semantic-ui-react": "^0.78.2"
+    "semantic-ui-react": "^0.78.2",
+    "stripe": "^5.5.0"
   },
   "scripts": {
     "start": "react-scripts start",

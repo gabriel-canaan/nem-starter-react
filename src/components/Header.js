@@ -7,7 +7,7 @@ class Header extends Component {
     return (
       <Menu>
         <Menu.Menu>
-          <p>Header Component</p>
+          <p>choice Bro !</p>
         </Menu.Menu>
       </Menu>
     )
